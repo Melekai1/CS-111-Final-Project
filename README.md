@@ -1,4 +1,4 @@
-Movie Analyzer
+# Movie Analyzer
 
 WHAT IS IT: A C++ application that analyzes box office data for a variety of films
 
